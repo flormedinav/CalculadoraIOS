@@ -18,15 +18,11 @@ Este proyecto tiene como objetivo construir un clon de la calculadora presente e
 
 - **HTML**, **CSS**, **React Native**, **Typescript**.
 
-## **📍 LANDING PAGE**
-
-**IMAGE 1**
+## **📍 IMÁGENES**
 
 ![Calculadora IOS](./assests/calculadoraIOS1.PNG)
 
-## **📍 HOME PAGE**
-
-**IMAGEN 2**
+<br />
 
 ![Calculadora IOS](./assests/calculadoraIOS2.PNG)
 
