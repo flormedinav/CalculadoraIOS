@@ -16,7 +16,7 @@ Este proyecto tiene como objetivo construir un clon de la calculadora presente e
 
 ## **🦾 TECNOLOGÍAS**
 
-- **HTML**, **CSS**, **React Native**, **Typescript**.
+- **React Native**, **Typescript**.
 
 ## **📍 IMÁGENES**
 
